@@ -1,0 +1,2 @@
+# hello-cock
+all
